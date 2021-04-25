@@ -12,7 +12,7 @@ const useStyles = makeStyles({
         width: '0.5em',
         height: '0.5em',
         paddingLeft: 2,
-    },
+    }
 });
 
 const MyUrlField = ({ source }) => {
